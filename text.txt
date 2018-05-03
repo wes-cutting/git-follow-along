@@ -1,1 +1,2 @@
 Hello Class, Welcome to my GIT example project!
+Here is an example of some changes.
